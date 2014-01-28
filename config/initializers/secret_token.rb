@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Dia::Application.config.secret_key_base = 'ff7afab572963f3530bc73787962d2199ef71899a5583c5224861fbe4849b5907d7a4b4bd97d573861c5e214ec74dc123415c555d763acbd1118b1becc8f947e'
+Dia::Application.config.secret_key_base = 'c13f4aeedba0b0f1e414d0924e5e18d00d30b9fb5c1d622852ffc1856bdb0c690f0249a1041430749750a7ae92e5d47c917c03f9f784214d3747e719a3373553'
